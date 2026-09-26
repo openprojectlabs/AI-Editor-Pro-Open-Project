@@ -2,6 +2,8 @@
 
 AI Editor Pro is a local-first, AI-assisted non-linear video editor. The restored project keeps the real editor implementation in the repository-level `src/` tree and exposes portable `frontend/` and `backend/` workspace launchers so the application can be run from any checkout directory.
 
+Update: You'll need to tell the GitHub code space to edit the code to make this app fully work, since this doesn't support it, it will work also you'll need to add your own API key.
+
 ## Requirements
 
 - Node.js 24.x recommended. Node 22.18+ is supported.
